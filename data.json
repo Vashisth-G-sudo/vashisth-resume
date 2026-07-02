@@ -62,7 +62,6 @@
       "desc": "Containerized microservice storefront on Amazon ECS Fargate behind an ALB and CloudFront (HTTPS), with autoscaling, ECR, and least-privilege IAM. ~$26/mo.",
       "tags": ["ECS", "Fargate", "ALB", "CloudFront", "Terraform"],
       "links": [
-        { "label": "Live demo", "url": "https://d1wfp69cotudi8.cloudfront.net" },
         { "label": "Code", "url": "https://github.com/Vashisth-G-sudo/portfolio-projects/tree/main/01-ecs-fargate-microservices" }
       ]
     },
