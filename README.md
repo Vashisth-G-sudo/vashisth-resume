@@ -1,11 +1,11 @@
-# Vashisth Goswami — Resume Website
+# Vashisth Goswami - Resume Website
 
 A clean, responsive single-page resume site (static HTML/CSS), designed to be
 hosted for free on **GitHub Pages**.
 
 ## Files
-- `index.html` — the page (hero, about, skills, experience, projects, education)
-- `styles.css` — all styling (dark theme, gradient accents, responsive)
+- `index.html` - the page (hero, about, skills, experience, projects, education)
+- `styles.css` - all styling (dark theme, gradient accents, responsive)
 
 ## Preview locally
 Just open `index.html` in a browser, or run a tiny server:

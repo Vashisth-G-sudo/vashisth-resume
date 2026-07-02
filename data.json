@@ -1,9 +1,9 @@
 {
   "profile": {
     "name": "Vashisth Goswami",
-    "title": "Cloud Support Engineer II — DevOps @ AWS",
+    "title": "Cloud Support Engineer II - DevOps @ AWS",
     "eyebrow": "☁️ Cloud & DevOps",
-    "tagline": "Helping enterprises run reliable, automated, cost-aware infrastructure on AWS — containers, CI/CD, and Infrastructure as Code."
+    "tagline": "Helping enterprises run reliable, automated, cost-aware infrastructure on AWS - containers, CI/CD, and Infrastructure as Code."
   },
   "contact": {
     "email": "Vashisth107@gmail.com",
@@ -23,20 +23,20 @@
   ],
   "experience": [
     {
-      "role": "Cloud Support Engineer II — DevOps",
+      "role": "Cloud Support Engineer II - DevOps",
       "company": "AWS",
-      "dates": "Jan 2024 – Present",
-      "note": "Promoted to Cloud Support Engineer II — DevOps (Jul 2026) · Cloud Support Engineer I — DevOps (Jan 2024 – Jul 2026)",
+      "dates": "Jan 2024 - Present",
+      "note": "Promoted to Cloud Support Engineer II - DevOps (Jul 2026) · Cloud Support Engineer I - DevOps (Jan 2024 - Jul 2026)",
       "points": [
         "Provide expert-level support for AWS services (EC2, EKS, ECS, Lambda, S3, CloudFormation, IAM), ensuring high availability and efficient troubleshooting for enterprise clients in DevOps environments.",
-        "Collaborate with development and operations teams to optimize CI/CD pipelines using Jenkins, Git, and CodePipeline — improving deployment efficiency and reducing release-cycle times.",
+        "Collaborate with development and operations teams to optimize CI/CD pipelines using Jenkins, Git, and CodePipeline - improving deployment efficiency and reducing release-cycle times.",
         "Resolve complex infrastructure and automation issues across Linux servers, networking, and container orchestration (Docker/Kubernetes), improving system stability and customer satisfaction."
       ]
     },
     {
       "role": "Software Engineer",
       "company": "Shell",
-      "dates": "Sep 2022 – Jan 2023",
+      "dates": "Sep 2022 - Jan 2023",
       "points": [
         "Built and maintained highly scalable, fault-tolerant multi-tier Azure environments across multiple availability zones using Terraform and CloudFormation.",
         "Deployed Java microservices via Azure DevOps and Azure Kubernetes Service (AKS) managed clusters; exposed services through the Azure External Load Balancer.",
@@ -47,7 +47,7 @@
     {
       "role": "Software Developer",
       "company": "Charter Communications",
-      "dates": "May 2022 – Sep 2022",
+      "dates": "May 2022 - Sep 2022",
       "points": [
         "Implemented Redux for global application state management (e.g., user login status).",
         "Automated Kubernetes cluster provisioning with Ansible playbooks; orchestrated Linux containers with Docker, Kubernetes, and CoreOS.",
@@ -68,7 +68,7 @@
     {
       "emoji": "☸️",
       "name": "Orders Platform on EKS",
-      "desc": "Kubernetes platform on Amazon EKS — Deployments, Services, ALB Ingress, Horizontal Pod Autoscaler, and IRSA. Run as a cost-managed ephemeral environment.",
+      "desc": "Kubernetes platform on Amazon EKS - Deployments, Services, ALB Ingress, Horizontal Pod Autoscaler, and IRSA. Run as a cost-managed ephemeral environment.",
       "tags": ["EKS", "Kubernetes", "HPA", "IRSA"],
       "links": [
         { "label": "Code", "url": "https://github.com/Vashisth-G-sudo/portfolio-projects/tree/main/02-eks-gitops-platform" }
@@ -87,10 +87,10 @@
   "academicProjects": [
     { "name": "Web Mining in the World Wide Web: A Survey", "desc": "Research paper surveying the evolution of web mining and how data-mining techniques have been adapted since their foundation." },
     { "name": "Citizen's Attribute", "desc": "Application (Python & Java) to manage medical reports and coordinate with doctors, including a symptom-collecting chatbot that suggests guidance from a patient's records." },
-    { "name": "Hotel Booking System", "desc": "Booking system built in PL/SQL — dataset created with SQL and executed via stored procedures." }
+    { "name": "Hotel Booking System", "desc": "Booking system built in PL/SQL - dataset created with SQL and executed via stored procedures." }
   ],
   "education": {
-    "school": "University of Maryland, Baltimore (UMBC) — Baltimore, MD",
+    "school": "University of Maryland, Baltimore (UMBC) - Baltimore, MD",
     "degree": "Master of Science in Information Systems",
     "specialization": "Specialization in Data Science"
   }

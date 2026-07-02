@@ -18,7 +18,7 @@ async function render() {
     return;
   }
 
-  document.title = `${data.profile.name} — ${data.profile.title}`;
+  document.title = `${data.profile.name} - ${data.profile.title}`;
 
   // --- Hero ---
   $("#hero-eyebrow").textContent = data.profile.eyebrow;
