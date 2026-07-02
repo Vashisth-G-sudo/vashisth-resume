@@ -107,6 +107,7 @@ a:hover { text-decoration: underline; }
 .job-head h4 { font-size: 1.15rem; color: #fff; }
 .job-head .company { color: var(--accent-2); font-weight: 600; }
 .job-head .dates { margin-left: auto; color: var(--muted); font-size: .85rem; }
+.job .roles { color: var(--accent-2); font-size: .85rem; margin: -4px 0 10px; }
 .job ul { margin-left: 18px; color: var(--muted); }
 .job li { margin-top: 6px; font-size: .93rem; }
 
